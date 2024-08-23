@@ -1,0 +1,11 @@
+print('4th program')
+str_ = '123.456'
+print(str_)
+b = (float(str_))
+print(b)
+c = (b*10)
+print(c)
+z = (int(c))
+print(z)
+y = (z%1230)
+print(y)
